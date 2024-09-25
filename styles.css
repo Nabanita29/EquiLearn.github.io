@@ -55,7 +55,7 @@ header {
     justify-content: center;
     align-items: center;
     height: 100vh; /* Full height to center content vertically */
-    background: url('file:///C:/Users/NABANITA/OneDrive%20-%20The%20Northcap%20university/Desktop/EquiLearn/picture.jpg') no-repeat center center/cover;
+    background: url('picture.jpg') no-repeat center center/cover;
     background-size: cover;
     background-position: center;
     position: relative;
