@@ -43,14 +43,11 @@ header {
 }
 
 .hero-content {
-    background-color: rgba(0, 0, 0, 0.7); /* Black background with transparency */
-    padding: 20px; /* Padding around the text */
     border-radius: 10px; /* Rounded corners */
     color: #fff; /* White text color for contrast */
     max-width: 600px; /* Limit the width of the box */
     margin: auto; /* Center the box horizontally */
     text-align: center; /* Center the text */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Add a subtle shadow */
 }
 
 .hero {
@@ -58,7 +55,7 @@ header {
     justify-content: center;
     align-items: center;
     height: 100vh; /* Full height to center content vertically */
-    background: url('file:///C:/Users/NABANITA/Downloads/DALL%C2%B7E%202024-09-24%2019.33.51%20-%20A%20minimalistic%20abstract%20design%20featuring%20icons%20related%20to%20education%20and%20accessibility.%20The%20image%20includes%20simple,%20flat%20icons%20like%20books,%20graduation%20ca.webp') no-repeat center center/cover;
+    background: url('file:///C:/Users/NABANITA/OneDrive%20-%20The%20Northcap%20university/Desktop/EquiLearn/picture.jpg') no-repeat center center/cover;
     background-size: cover;
     background-position: center;
     position: relative;
