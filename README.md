@@ -10,6 +10,10 @@ https://shorturl.at/0dMz3
 
 ## Features
 
+- **Personalized Learning Roadmaps**  
+  - Tailored learning paths based on the student's academic background, disability, and learning goals.
+    ![image](https://github.com/user-attachments/assets/d9a3a86a-7c7f-481b-84b1-7a237da0b3a2)
+
 - **Accessibility for Blind Users**  
   - Voice navigation using screen readers.
   - Text-to-speech functionality for reading educational materials.
@@ -22,10 +26,7 @@ https://shorturl.at/0dMz3
   - Content is available in multiple languages to cater to diverse user bases.
 
 - **Scholarships for NIOS/CBSE Exams**  
-  - Provides scholarship support for students preparing for NIOS or CBSE exams, aimed at underprivileged and disabled students.
-
-- **Personalized Learning Roadmaps**  
-  - Tailored learning paths based on the student's academic background, disability, and learning goals.
+  - Provides scholarship support for students preparing for NIOS or CBSE exams, aimed at underprivileged and disabled students
 
 - **Freemium Model with Premium Features**  
   - Basic educational content available for free.
