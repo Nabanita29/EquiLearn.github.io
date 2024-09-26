@@ -12,6 +12,7 @@ https://shorturl.at/0dMz3
 
 - **Personalized Learning Roadmaps**  
   - Tailored learning paths based on the student's academic background, disability, and learning goals.
+ 
     ![image](https://github.com/user-attachments/assets/d9a3a86a-7c7f-481b-84b1-7a237da0b3a2)
 
 - **Accessibility for Blind Users**  
