@@ -5,6 +5,9 @@ https://shorturl.at/0dMz3
 
 **EquiLearn** is an EdTech platform designed to provide accessible education to underprivileged and disabled students, including the blind and deaf. With a focus on inclusivity and accessibility, the platform offers resources, personalized learning paths, scholarships, and freelance opportunities to ensure equitable access to education for all.
 
+![image](https://github.com/user-attachments/assets/8b6b7823-9baf-40f6-a347-55e9ff6ea97b)
+
+
 ## Features
 
 - **Accessibility for Blind Users**  
@@ -39,9 +42,4 @@ https://shorturl.at/0dMz3
 - **APIs**: RESTful APIs for seamless data exchange
 - **AI Tools**: AI-powered chatbot for real-time doubt support
 
-## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/EquiLearn.git
